@@ -1,0 +1,16 @@
+
+
+Client
+Server
+
+Front end
+- HTML (Hyper Text Markup Language)
+- CSS (Cascading style sheet)
+- JAVASCRIPT
+
+Backend
+- JAVA
+- SQL (DB)
+
+What's a website and how user interacts with it
+
