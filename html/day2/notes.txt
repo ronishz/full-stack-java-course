@@ -1,0 +1,23 @@
+day2 html notes:
+
+styling tags:
+    to bold text: <b>, <strong>
+    to italic text: <i>, <em>
+    to underline: <u>
+    to delete or strike through: <del>
+    to make font size small: <small>
+    to highlight word: <mark>
+
+nested tags: tags inside tags (outer tags and inner tags)
+
+
+horizontal line: <hr>
+
+
+extension: live server (to see your changes live in browser, just save the file)
+    - no need to reload or refresh your page
+
+ DOM: Document object model
+ DOM Tree   
+
+
