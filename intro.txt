@@ -6,11 +6,74 @@ Server
 Front end
 - HTML (Hyper Text Markup Language)
 - CSS (Cascading style sheet)
-- JAVASCRIPT
+- JAVASCRIPT (any logic for user interations)
 
 Backend
 - JAVA
 - SQL (DB)
 
 What's a website and how user interacts with it
+
+
+Day1:
+
+Things required:
+Browser (Chrome, Edge, etc)
+Editor (Notepad, Visual Studio Code, etc)
+    plugin in VS code: prettier
+    
+
+HTML (Hypertext Markup Language):
+
+Core Language to build any website
+HTML - 1993 (version 1)
+2014 - HTML 5 (latest) - supported by all browsers
+
+HTML - extension ".html" or ".htm"
+HTML is built up of tags/elements
+HTML Tag or HTML Element:
+
+<tagName> - opening tag
+        ...content
+        <tagName2>
+            ... diff content
+        </tagName2>    
+</tagName> - closing tag
+
+Important line at top of every html file - <!DOCTYPE html>
+
+<html> </html> - root tag of html
+
+head - supporting tags required for body (css,js related tags)
+    title - browser tab name
+body - whatever content you want to display to user
+
+tags inside body:
+ 1) header/heading tags - <h1>, h2, h3, h4, h5, h6 (sizes from large to small)
+                    - only till h6
+2) Paragraph tag - <p>
+3) Break line - <br>
+
+To view html code/source code - right click -> inspect element     
+Code should be more readable  - prettier plugin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
