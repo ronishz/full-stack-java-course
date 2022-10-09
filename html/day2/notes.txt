@@ -2,7 +2,9 @@ day2 html notes:
 
 styling tags:
     to bold text: <b>, <strong>
-    to italic text: <i>, <em>
+    to italic text: 
+        - <i>
+        - <em>
     to underline: <u>
     to delete or strike through: <del>
     to make font size small: <small>
@@ -19,5 +21,28 @@ extension: live server (to see your changes live in browser, just save the file)
 
  DOM: Document object model
  DOM Tree   
+
+ Lists: 
+
+ Unordered List (without numbering) - <ul> & <li>
+ Ordered List (numbers) - <ol> & <li>
+ <li> - use to wrap every element inside List
+
+
+    - Steps to write a Letter 
+        1) Date
+        2) To context
+        3) Subject
+        4) body
+        5) Thank you
+
+
+Parent tags or outer tags: ol, ul, dl
+inner tags: li, dt ,dd
+
+Description lists:
+dl - desciption list
+dt - define term (your word or sentence which needs to be described eg. course name)
+dd - describe (write your description for the above term or word)
 
 
